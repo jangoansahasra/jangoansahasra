@@ -97,14 +97,6 @@ HTML5 CSS3 JavaScript
 </tr>
 </table>
 
-📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jangoansahasra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=jangoansahasra&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangoansahasra&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center"><i>Open to data analyst, data scientist, ML, and AI full-time opportunities, let's connect!</i></p>
