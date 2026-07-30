@@ -94,7 +94,7 @@ Personal portfolio site built from scratch with vanilla HTML, CSS, and JavaScrip
 HTML5 CSS3 JavaScript
 
 </td> </tr> </table>
----
+
 
 ### 📊 GitHub Stats
 
