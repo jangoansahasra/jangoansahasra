@@ -98,7 +98,7 @@ HTML5 CSS3 JavaScript
 
 ### 📊 GitHub Stats
 
-<p align="center"> <img src="https://img.shields.io/github/followers/jangoansahasra?label=Followers&style=for-the-badge&color=2E9EF7&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjangoansahasra&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=2E9EF7&logo=github&logoColor=white" /> </p>
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=jangoansahasra&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=jangoansahasra&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangoansahasra&layout=compact&theme=tokyonight&hide_border=true" /> </p>
 
 ---
 
