@@ -99,7 +99,7 @@ HTML5 CSS3 JavaScript
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-s-7c5a.vercel.app/api?username=jangoansahasra&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-s-7c5a.vercel.app/api?username=jangoansahasra&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=jangoansahasra&theme=tokyonight&hide_border=true" />
 </p>
 
